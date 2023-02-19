@@ -6,4 +6,5 @@ The sampling techniques used include simple random sampling, stratified sampling
 
 #Result Table
 ![image](https://user-images.githubusercontent.com/78889909/219962762-d9a3987e-0ab6-44e3-a579-0af9366965d4.png)
-The results of the five models applied to the samples are logged in the result table. From the table, it can be concluded that the Decision Tree Algorithm applied to the Simple Random Sampling technique yields the highest accuracy of 99.609%
+
+###The results of the five models applied to the samples are logged in the result table. From the table, it can be concluded that the Decision Tree Algorithm applied to the Simple Random Sampling technique yields the highest accuracy of 99.609%
